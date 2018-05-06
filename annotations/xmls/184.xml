@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>184.jpg</filename>
+	<path>/home/evgeniy/Development/hackaton/beer_detector/images/184.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>38</ymin>
+			<xmax>86</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>
